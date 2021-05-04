@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="frank" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="frank">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PopMusicTransformerPytorch" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/venv" />
+            <excludedPath local="true" path="$PROJECT_DIR$/src/transformer/REMI-my-checkpoint" />
+            <excludedPath path="/PopMusicTransformerPytorch/transformer/REMI-my-checkpoint/*" />
+            <excludedPath local="true" path="$PROJECT_DIR$/src/transformer/data/remi" />
+            <excludedPath path="/PopMusicTransformerPytorch/transformer/data/remi/*" />
+            <excludedPath local="true" path="$PROJECT_DIR$/src/transformer/evaluation" />
+            <excludedPath path="/PopMusicTransformerPytorch/transformer/evaluation" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../nvenv" />
+            <excludedPath path="/PopMusicTransformerPytorch/nvenv" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

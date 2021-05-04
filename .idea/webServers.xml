@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d00bd8a2-c8a9-4e5b-9522-fdb38aca3570" name="frank">
+        <fileTransfer rootFolder="/homes/mg315" accessType="SFTP" host="frank.eecs.qmul.ac.uk" port="22" sshConfigId="2e50f6ea-cec3-4965-ac56-be56db3619d3" sshConfig="mg315@frank.eecs.qmul.ac.uk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

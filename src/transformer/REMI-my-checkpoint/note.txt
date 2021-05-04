@@ -1,0 +1,1 @@
+Current: C1_b_400_200_0.00005_n_head=8_n_layer=12_d_inner=2048_dropout=0.1
